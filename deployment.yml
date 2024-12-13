@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: cont-1
-        image: shaikmustafa/ipl
+        image: rajeshgalipelli089/shop:site
         ports:
         - containerPort: 80
 ---
